@@ -1,4 +1,4 @@
-# Art of Minimalism
+# Art of Minimalism :man_technologist:
 
 
 Minimalism is an art movement and aesthetic that emerged in the 20th century, focusing on simplicity, clean lines, and a reduction of elements to their essential form. It can be seen across various art forms, including visual arts, design, architecture, and even lifestyle choices. Here's a breakdown of the art of minimalism:
