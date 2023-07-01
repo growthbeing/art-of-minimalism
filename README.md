@@ -28,4 +28,4 @@ Minimalism as a lifestyle movement gained popularity in recent years, advocating
 
 - **Essentialism**: Focusing on what truly matters and removing distractions.
 
-The art of minimalism encourages contemplation, mindfulness, and an appreciation for the beauty of simplicity. It allows individuals to engage with their surroundings in a more intentional and meaningful way, free from the excesses of a cluttered world.
+```The art of minimalism encourages contemplation, mindfulness, and an appreciation for the beauty of simplicity.``` It allows individuals to engage with their surroundings in a more intentional and meaningful way, free from the excesses of a cluttered world.
